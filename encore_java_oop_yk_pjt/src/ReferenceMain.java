@@ -32,7 +32,7 @@ public class ReferenceMain {
 //			System.out.println("인스턴스 소유의 변수 호출 : " +stuObj.name) ; //인스턴스 소유의 변수 호출 : 포케			
 //	
 			System.out.println("인스턴스 소유의 메서드 호출 : ") ;
-			stuObj.setName(10) ; //메서드는 문자열을 받겠다고 했기 떄문에 int값은 오류나는 것  
+			// stuObj.setName(10) ; //메서드는 문자열을 받겠다고 했기 떄문에 int 값은 오류나는 것  
 			stuObj.setName("섭섭해") ; //리턴 값 void
 			String returnValue = stuObj.getName();
 			System.out.println(returnValue) ;

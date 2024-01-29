@@ -6,7 +6,7 @@ public class CarMain {
 		Car car = new Car("가솔린") ; //엔진의 타입은 가솔린입니다라고 호출
 		//car 객체 생성 후 인스턴스 소유의 메서드 호출
 		car.engineInfo() ;
-		//???
+		///???
 	}
 
 }

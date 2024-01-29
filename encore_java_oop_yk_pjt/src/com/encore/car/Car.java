@@ -16,7 +16,7 @@ public class Car {
 		engine = new Engine() ; //참조 타입의 변수가 생성 
 		
 	}
-	public car(String type) {
+	public Car(String type) {
 		engine = new Engine(type) ;
 		
 	}

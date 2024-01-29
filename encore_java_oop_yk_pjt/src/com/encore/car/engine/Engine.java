@@ -14,9 +14,7 @@ public class Engine {
 		this.engineType = engineType ; //클래스안에 같은 변수명 여러개 사용? 선언위치가 다르면 가능 //지역변수
 		
 	}
-	public String showInfo( ) {
-		return null ; //기본값들을 리턴 //엔진정보 null 나옴
-	}
+
 	public String showInfo( ) {
 		return "엔진의 타입은 "+engineType+"입니다." ; 
 	}
