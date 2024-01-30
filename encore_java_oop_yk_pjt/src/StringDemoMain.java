@@ -14,7 +14,7 @@ public class StringDemoMain {
 		if (str01 == str02) { // ==는 동등비교연산자 
 			System.out.println("주소값이 동일합니다.");
 		} else {
-			System.out.println("주소값이 동일하지 않습니다.") ; //주소값이 동일합니다. 
+			System.out.println("주소값이 동일하지 않습니다.") ; //주소 값이 동일합니다. 
 		}
 		if(str01.equals(str02)) { //문자열의 값을 비교
 			System.out.println("값이 동일합니다.");

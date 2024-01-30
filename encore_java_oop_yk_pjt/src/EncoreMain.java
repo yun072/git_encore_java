@@ -18,7 +18,7 @@ public class EncoreMain {
 		//INT보다 더 큰 값을 담고 싶다
 		//long intValue = 10 ;
 		
-		String stringValue = "섭섭님" ; //string은 첫번쨰 레터가 대문자로 시작해야 함//문자열이기 때문에 ""사용 //7,15  float은 15자리 
+		String stringValue = "섭섭님" ; //string은 첫번쨰 레터가 대문자로 시작해야 함//문자열이기 때문에 ""사용 //
 		boolean booleanValue = false ;
 		
 		System.out.println("정수값 : "+intValue) ;
